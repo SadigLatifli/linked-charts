@@ -38,7 +38,7 @@ Instead, I implemented **smooth dataset-based transitions** using:
 ```js
 animationDurationUpdate: 500,
 animationEasingUpdate: 'cubicOut'
-
+```
 
 
 ## 🔄 How the Transitions Work
